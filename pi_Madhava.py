@@ -12,9 +12,7 @@ def pi(n):
         pi = pi + pi_
         z = z + 2
         print(i, pi_, pi*sqrt(12))
-        
-    
-        
+
 
 if __name__ == "__main__":
     pi(35)
